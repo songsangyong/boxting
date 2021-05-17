@@ -1,1 +1,2 @@
 asdfdsfsdf
+일반기능추가2
